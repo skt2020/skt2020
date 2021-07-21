@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **skt2020/skt2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Design and Development](https://github.com/skt2020/skt2020/blob/main/github_banner.png)
 
+![Design and Development](https://github.com/skt2020/skt2020/blob/main/github_banner.png)
+### Hi there 👋
 # Suryansh Trivedi
 Hello! I'm Suryansh, an UG Computer Science Student in Indore, IND. I love creating things that live on the Cloud or Internet, whether that be websites, applications, or anything in between. I always try to automate products and make it's experiences performant. 
 
