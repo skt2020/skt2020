@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 Hello! I'm Suryansh, an UG Computer Science Student in Indore, IND. I love creating things that live on the Cloud or Internet, whether that be websites, applications, or anything in between. I always try to automate products and make it's experiences performant. 
 
+<br />
 ### Connect with me:
 
 [<img align="left" alt="acousticclown.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -28,7 +29,7 @@ Hello! I'm Suryansh, an UG Computer Science Student in Indore, IND. I love creat
 [<img align="left" alt="acousticclown | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="acousticclown | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="acousticclown | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<br /><br />
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -48,7 +49,7 @@ Hello! I'm Suryansh, an UG Computer Science Student in Indore, IND. I love creat
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
+<br /><br />
 ## Skills and Experience
 * ⚛ React
 * 📱 React Native
@@ -63,7 +64,7 @@ Hello! I'm Suryansh, an UG Computer Science Student in Indore, IND. I love creat
 
 
 <br />
-<br />
+
 
 ---
 
