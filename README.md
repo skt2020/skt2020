@@ -12,7 +12,7 @@ Hello! I'm Suryansh, an UG Computer Science Student in Indore, IND. I love creat
 [<img align="left" alt="http://suryanshtrivedi.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="skt2020 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="skt2020 | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="skt2020 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="skt2020 | Medium" width="22px" src="https://icons8.com/icon/110611/medium-monogram" />][medium]
 
 
 <br />
@@ -42,7 +42,7 @@ Hello! I'm Suryansh, an UG Computer Science Student in Indore, IND. I love creat
 <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
 
 [website]: http://suryanshtrivedi.ml
-[twitter]: https://twitter.com/suryanshtrivedi7?s=09
+[medium]: https://medium.com/@suryanshtrivedi1
 [linkedin]: https://www.linkedin.com/in/suryansh-trivedi-b32b77170/
 [github]: https://github.com/skt2020
 
