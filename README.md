@@ -9,11 +9,12 @@ Hello! I'm Suryansh, an UG Computer Science Student in Indore, IND. I love creat
 
 ## Connect with me:
 
-[<img align="left" alt="acousticclown.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="acousticclown | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="acousticclown | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="acousticclown | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="acousticclown | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="http://suryanshtrivedi.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="skt2020 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="skt2020 | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="skt2020 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+
 <br />
 ## Languages and Tools:
 
@@ -39,9 +40,8 @@ Hello! I'm Suryansh, an UG Computer Science Student in Indore, IND. I love creat
 
 <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
 
-[website]: https://shivanshpratap.netlify.app
-[twitter]: https://twitter.com/acousticclown
-[youtube]: https://www.youtube.com/channel/UC383bYHzyeWgB4R1zMcC06w?view_as=subscriber
-[instagram]: https://instagram.com/Acoustic_clown
-[linkedin]: https://www.linkedin.com/in/shivansh-pratap-683960166/
+[website]: http://suryanshtrivedi.ml
+[twitter]: https://twitter.com/suryanshtrivedi7?s=09
+[linkedin]: https://www.linkedin.com/in/suryansh-trivedi-b32b77170/
+[github]: https://github.com/skt2020
 
