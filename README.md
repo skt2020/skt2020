@@ -36,7 +36,7 @@ Hello! I'm Suryansh, an UG Computer Science Student in Indore, IND. I love creat
 
 
 <br/><br/>
----
+
 ## Examples of Work:
 
 <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
