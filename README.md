@@ -12,7 +12,7 @@ Hello! I'm Suryansh, an UG Computer Science Student in Indore, IND. I love creat
 [<img align="left" alt="http://suryanshtrivedi.ml" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="skt2020 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="skt2020 | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="skt2020 | Medium" width="22px" src="https://img.icons8.com/ios-filled/50/000000/medium-monogram--v1.png" />][medium]
+[<img align="left" alt="skt2020 | Medium" width="22px" src="https://img.icons8.com/ios-filled/100/000000/medium-monogram--v1.png" />][medium]
 
 <br />
 
