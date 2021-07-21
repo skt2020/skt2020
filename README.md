@@ -50,7 +50,7 @@ Hello! I'm Suryansh, an UG Computer Science Student in Indore, IND. I love creat
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/>
 
-# Examples of Work:
+## Examples of Work:
 
 <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
 
