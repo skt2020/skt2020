@@ -29,6 +29,13 @@ Hello! I'm Suryansh, an UG Computer Science Student in Indore, IND. I love creat
 [<img align="left" alt="acousticclown | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="acousticclown | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="acousticclown | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[website]: https://shivanshpratap.netlify.app
+[twitter]: https://twitter.com/acousticclown
+[youtube]: https://www.youtube.com/channel/UC383bYHzyeWgB4R1zMcC06w?view_as=subscriber
+[instagram]: https://instagram.com/Acoustic_clown
+[linkedin]: https://www.linkedin.com/in/shivansh-pratap-683960166/
+
+
 <br />
 ## Languages and Tools:
 
@@ -49,14 +56,8 @@ Hello! I'm Suryansh, an UG Computer Science Student in Indore, IND. I love creat
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/><br/>
-## Connect with me:
+## Examples of Work:
 <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
-
-[website]: https://shivanshpratap.netlify.app
-[twitter]: https://twitter.com/acousticclown
-[youtube]: https://www.youtube.com/channel/UC383bYHzyeWgB4R1zMcC06w?view_as=subscriber
-[instagram]: https://instagram.com/Acoustic_clown
-[linkedin]: https://www.linkedin.com/in/shivansh-pratap-683960166/
 
 
 
