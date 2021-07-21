@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 
 Hello! I'm Suryansh, an UG Computer Science Student in Indore, IND. I love creating things that live on the Cloud or Internet, whether that be websites, applications, or anything in between. I always try to automate products and make it's experiences performant. 
 
-<br />
-### Connect with me:
+<br /><br />
+
+## Connect with me:
 
 [<img align="left" alt="acousticclown.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="acousticclown | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -30,7 +31,7 @@ Hello! I'm Suryansh, an UG Computer Science Student in Indore, IND. I love creat
 [<img align="left" alt="acousticclown | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="acousticclown | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br /><br />
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -58,23 +59,11 @@ Hello! I'm Suryansh, an UG Computer Science Student in Indore, IND. I love creat
 ## Examples of Work
 <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
 
-
-
-<br />
-
-
-<br />
-
-
----
-
-<!--START_SECTION:Social-Links-->
-
 [website]: https://shivanshpratap.netlify.app
 [twitter]: https://twitter.com/acousticclown
 [youtube]: https://www.youtube.com/channel/UC383bYHzyeWgB4R1zMcC06w?view_as=subscriber
 [instagram]: https://instagram.com/Acoustic_clown
 [linkedin]: https://www.linkedin.com/in/shivansh-pratap-683960166/
 
-<!--END_SECTION:Social-Links-->
+
 
