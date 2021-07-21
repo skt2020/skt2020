@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ![Design and Development](https://github.com/skt2020/skt2020/blob/main/github_banner.png)
-###👋
-#I'M Suryansh Trivedi
-Hello! I'm Suryansh, an UG Computer Science Student in Indore, IND. I love creating things that live on the Cloud or Internet, whether that be websites, applications, or anything in between. I always try to automate products and make it's experiences performant. 
+
+##I'M Suryansh Trivedi
+#Hello! I'm Suryansh, an UG Computer Science Student in Indore, IND. I love creating things that live on the Cloud or Internet, whether that be websites, applications, or anything in between. I always try to automate products and make it's experiences performant. 
 
 ## Skills and Experience
 * ⚛ React
