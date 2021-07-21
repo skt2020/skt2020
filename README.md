@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Design and Development](https://github.com/skt2020/skt2020/blob/main/Yellow%20Monochrome%20Photo%20LinkedIn%20Banner.png)
+![Design and Development](https://github.com/skt2020/skt2020/blob/main/github_banner.png)
 
 # Suryansh Trivedi
 Hello! I'm Suryansh, an UG Computer Science Student in Indore, IND. I love creating things that live on the Cloud or Internet, whether that be websites, applications, or anything in between. I always try to automate products and make it's experiences performant. 
