@@ -1,7 +1,7 @@
 
 # I'M Suryansh Trivedi👋🏻
 
-![Design and Development](https://github.com/skt2020/skt2020/blob/main/Suryansh%20Trivedi%20-%20Work%20Samples.png)
+![Design and Development](https://github.com/skt2020/skt2020/blob/main/SuryanshTrivediBanner_Bigdata%20.png)
 
 
 Hello! I'm Suryansh Trivedi, a Big Data Engineer from India.
@@ -12,7 +12,7 @@ I have a strong background in cloud computing, container orchestration, and buil
 
 ## Connect with me:
 
-[<img align="left" alt="https://suryanshtrivedi.me/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="https://suryansh-trivedi.web.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="skt2020 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="skt2020 | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="skt2020 | Medium" width="22px" src="https://img.icons8.com/ios-filled/100/000000/medium-monogram--v1.png" />][medium]
