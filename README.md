@@ -4,7 +4,10 @@
 ![Design and Development](https://github.com/skt2020/skt2020/blob/main/Suryansh%20Trivedi%20-%20Work%20Samples.png)
 
 
-Hello! I'm Suryansh, an UG Computer Science Student in Indore, IND. I love creating things that live on the Cloud or Internet, whether that be websites, applications, or anything in between. I always try to automate products and make it's experiences performant. 
+Hello! I'm Suryansh Trivedi, a Big Data Engineer from India.
+I specialize in designing, developing, and optimizing data solutions for High-Frequency Trading Systems (HFTs), focusing on low-latency, high-throughput, real-time data processing. I also have experience in modernizing legacy systems into high-performance, secure, and scalable data platforms, ensuring seamless data flow and minimal processing time
+
+I have a strong background in cloud computing, container orchestration, and building scalable, high-performance solutions. I love creating projects that live on the Cloud or Internet, whether they’re applications, websites, or advanced data pipelines. I always aim to simplify real-life problems through innovative technology and automate processes to enhance efficiency. I'm also passionate about developing new technologies for youth. 
 <br />
 
 ## Connect with me:
@@ -41,8 +44,8 @@ Hello! I'm Suryansh, an UG Computer Science Student in Indore, IND. I love creat
 
 <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
 
-[website]: https://suryanshtrivedi.me/
-[medium]: https://medium.com/@suryanshtrivedi1
+[website]: https://suryansh-trivedi.web.app/
 [linkedin]: https://www.linkedin.com/in/suryansh-trivedi-b32b77170/
+[medium]: https://medium.com/@suryanshtrivedi1
 [github]: https://github.com/skt2020
 
