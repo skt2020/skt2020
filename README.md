@@ -10,15 +10,6 @@ I specialize in designing, developing, and optimizing data solutions for High-Fr
 I have a strong background in cloud computing, container orchestration, and building scalable, high-performance solutions. I love creating projects that live on the Cloud or Internet, whether they’re applications, websites, or advanced data pipelines. I always aim to simplify real-life problems through innovative technology and automate processes to enhance efficiency. I'm also passionate about developing new technologies for youth. 
 <br />
 
-## Connect with me:
-
-[<img align="left" alt="https://suryansh-trivedi.web.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="skt2020 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="skt2020 | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="skt2020 | Medium" width="22px" src="https://img.icons8.com/ios-filled/100/000000/medium-monogram--v1.png" />][medium]
-
-<br />
-
 ## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -40,6 +31,20 @@ I have a strong background in cloud computing, container orchestration, and buil
 
 <br/><br/>
 
+
+## Connect with me:
+
+[<img align="left" alt="https://suryansh-trivedi.web.app/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="skt2020 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="skt2020 | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="skt2020 | Medium" width="22px" src="https://img.icons8.com/ios-filled/100/000000/medium-monogram--v1.png" />][medium]
+[<img align="left" alt="skt2020 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+
+
+<br />
+
+
 ## Examples of Work:
 
 <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
@@ -48,4 +53,4 @@ I have a strong background in cloud computing, container orchestration, and buil
 [linkedin]: https://www.linkedin.com/in/suryansh-trivedi-b32b77170/
 [medium]: https://medium.com/@suryanshtrivedi1
 [github]: https://github.com/skt2020
-
+[twitter]: https://x.com/suryanshTX
